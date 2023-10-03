@@ -1,1 +1,3 @@
 # coursera-git
+
+Updated readme
